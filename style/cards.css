@@ -1,0 +1,30 @@
+.round_card{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    justify-content: space-between;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+    text-align: center;
+
+}
+.round_card .round img{
+    width: 200px;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.115)
+}
+.rect{
+    display: flex;
+    width: 80%;
+    margin: auto;
+    justify-content: space-between;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+}
+.rect .rectangle img{
+    width: 200px;
+}
+.heading h1{
+    text-align: center;
+}
